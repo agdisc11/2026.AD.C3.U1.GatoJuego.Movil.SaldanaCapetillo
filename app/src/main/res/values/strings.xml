@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Gato</string>
+
+    <!-- Estado de la ronda -->
+    <string name="status_turn">Turno de %1$s</string>
+    <string name="status_winner">¡Ganó %1$s!</string>
+    <string name="status_draw">¡Empate!</string>
+
+    <!-- Marcador -->
+    <string name="score_player">Jugador %1$s</string>
+    <string name="score_draws">Empates</string>
+
+    <!-- Acciones -->
+    <string name="action_new_round">Nueva ronda</string>
+    <string name="action_reset_score">Reiniciar marcador</string>
+
+    <!-- Accesibilidad de las casillas -->
+    <string name="cell_description">Casilla %1$d: %2$s</string>
+    <string name="cell_empty">vacía</string>
+</resources>

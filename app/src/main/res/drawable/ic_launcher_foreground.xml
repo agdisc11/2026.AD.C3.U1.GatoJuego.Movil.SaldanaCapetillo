@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tablero de gato dentro de la zona segura de 66dp -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M43,27h4v54h-4z M61,27h4v54h-4z M27,43h54v4h-54z M27,61h54v4h-54z" />
+    <!-- X superior izquierda -->
+    <path
+        android:pathData="M30,30L40,40M40,30L30,40"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round" />
+    <!-- O central -->
+    <path
+        android:pathData="M54,49a5,5 0,1 1,0 10a5,5 0,1 1,0 -10"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFC857" />
+    <!-- X inferior derecha -->
+    <path
+        android:pathData="M68,68L78,78M78,68L68,78"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round" />
+</vector>
